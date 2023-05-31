@@ -1,1 +1,3 @@
+Quizzler is a quiz game based on trivia questions fetched from an API source.
 
+I used Tkinter for GUI, and requests module to get the questions directily from Open Trivia Database API ( https://opentdb.com/ )
